@@ -84,7 +84,7 @@ Full-stack clone of Airbnb platform
 - 💼 **GitHub**: [@4honore](https://github.com/4honore)
 - 📧 **Email**: [ishimwehonore450@gmail.com](ishimwehonore450@gmail.com)
 - 🔗 **LinkedIn**: [honore linkdIn](https://www.linkedin.com/in/honore-ishimwe-26940a388/)
-- 🌐 **Portfolio**: [Add your website](https://portfolio-website-chi-ten-54.vercel.app/#home)
+- 🌐 **Portfolio**: [website](https://portfolio-website-chi-ten-54.vercel.app/#home)
 
 ## 💡 Open to
 - 🤝 Collaboration on projects
